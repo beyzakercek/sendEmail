@@ -29,5 +29,5 @@ uvicorn main:app --reload
 
 Explore the API using the Swagger documentation available at http://127.0.0.1:8000/docs. The Swagger UI provides an interactive interface to test and understand each endpoint.
 
-![image](https://github.com/beyzakercek/sendEmail/assets/79270344/cc6dd886-4240-4956-8551-5883e6a23285)
 
+![image](https://github.com/beyzakercek/sendEmail/assets/79270344/e45b4652-b465-469f-bb04-00fd0bab8a80)
