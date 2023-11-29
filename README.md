@@ -26,8 +26,10 @@ pip install -r requirements.txt
 
 #run the FastAPI application
 uvicorn main:app --reload
+```
 
 Explore the API using the Swagger documentation available at http://127.0.0.1:8000/docs. The Swagger UI provides an interactive interface to test and understand each endpoint.
 
+![image](https://github.com/beyzakercek/sendEmail/assets/79270344/745b9139-977f-4243-8b4d-b4fc818fa9e5)
 
-![image](https://github.com/beyzakercek/sendEmail/assets/79270344/e45b4652-b465-469f-bb04-00fd0bab8a80)
+
