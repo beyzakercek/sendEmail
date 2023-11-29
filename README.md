@@ -1,6 +1,5 @@
 # sendEmail
 
-# FastAPI Email Sender with Swagger Documentation
 
 This FastAPI project provides a simple API for sending emails using an SMTP server. The API is documented using Swagger, allowing developers to interact with the endpoints easily.
 
